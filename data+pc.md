@@ -3,7 +3,7 @@
 ## 1. Data Generation
 
 ```python
-def generate_discrete_data_v2(n_samples):
+def generate_discrete_data(n_samples):
 ```
 
 ### Root Node Generation
